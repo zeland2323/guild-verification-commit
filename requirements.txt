@@ -1,3 +1,3 @@
 Guild.xyz verification
-Timestamp: 2026-03-05T22:32:05.872Z
-Commit: Resolve timezone issues in date handling
+Timestamp: 2026-03-05T22:32:21.227Z
+Commit: Add multi-language support
