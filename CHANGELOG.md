@@ -1,3 +1,3 @@
 Guild.xyz verification
-Timestamp: 2026-03-05T22:40:17.550Z
-Commit: Add dark mode support
+Timestamp: 2026-03-05T22:42:13.972Z
+Commit: Fix broken links in documentation
